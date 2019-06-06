@@ -9,9 +9,11 @@ A repository of basic python code as a resource for the Kay lab group.
 *Same as above but using DASK (i.e., multiple cheyenne nodes) to speed up the computation.*
 3. CAM_vertical_interpolation_python_readme.pdf   
 *Instructions for installing PyNGL & utilizing the vertical cross-section python codes above. Also describes the process of pushing/pulling from Github to make changes to a repo.*
+4. output_netcdf_file.ipynb  
+*A very simple example of loading in some CESM data and saving one timestep.*
 
 ### To be added eventually... 
-4. simple_CESM_spatial_plot_xarray.ipynb   
+1. simple_CESM_spatial_plot_xarray.ipynb   
 *Example of extracting and making a simple spatial plot with CESM data*
-5. beautifying_spatial_plot_cartopy.ipynb   
+2. beautifying_spatial_plot_cartopy.ipynb   
 *Making a plot publishing quality in cartopy.*
