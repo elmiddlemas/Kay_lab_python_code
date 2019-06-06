@@ -1,7 +1,7 @@
 # Kay_lab_python_code
 A repository of basic python code as a resource for the Kay lab group.
 
-## List of files and their functionality
+### List of files and their functionality
 1. vertical_cross_section_example.ipynb
 *Example of plotting a CESM variable in lat/height space. Interpolates from CESM sigma-hybrid coordinates to pressure coordinates. Requires PyNGL installation. Please see CAM_vertical_interpolation_python_readme.pdf*
 *This notebook also contains examples of extracting CESM variables from NetCDF files, using dictionaries, 1-line for-loops, and plotting.*
